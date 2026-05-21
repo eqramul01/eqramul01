@@ -4,7 +4,7 @@
 
 # Eqramul Chowdhury, J.D.
 
-**Lawyer-developer.** A JD-trained legal generalist who builds private, multimodal AI systems for legal operations and litigation document management.
+**Law-Developer** — a J.D. who passed the Florida Bar Examination and builds private, multimodal AI systems for legal operations and litigation document management.
 
 Coral Gables–trained business & real estate litigation · Multimodal RAG · Legal document intelligence
 
@@ -20,7 +20,7 @@ Coral Gables–trained business & real estate litigation · Multimodal RAG · Le
 
 I spent roughly fifteen years inside a Coral Gables real estate and business-litigation practice as the senior partner's law clerk and case strategist — the person who assessed each matter, planned the multi-year litigation strategy, coordinated outside counsel, and ran the complex real estate and corporate closings at the end. Across that period I helped work out **$40M+ of distressed debt** through roughly a dozen Miami-Dade circuit court cases, Third District Court of Appeal appeals, and Chapter 11 bankruptcy matters (*In re Grand Abbaco*, *In re Jarrette Bay*, *In re Bimini*), alongside **$20M+ in real estate closings**.
 
-The constant in that work was **documents** — pleadings, depositions, contracts, escrow instruments, governance papers, and correspondence, spread across scores of matters and many outside firms. I now combine three decades of programming with that legal-operations experience to build systems that make large, messy legal archives **organized, searchable, and audit-ready**.
+The constant in that work was **documents** — pleadings, depositions, contracts, escrow instruments, governance papers, and correspondence, spread across scores of matters and many outside firms. I now combine three decades of programming with that legal-operations experience to build systems that make large, messy legal archives **organized, searchable, and audit-ready**. That is what I mean by *Law-Developer*: legal judgment expressed in working software — not a title borrowed from either field, but the discipline that sits between them.
 
 I am currently a self-represented party in a partnership and whistleblower matter, and I build these tools **in the open** — publishing the architecture, the code, and the design tradeoffs so the work is transparent, reproducible, and verifiable by anyone who cares to read it.
 
@@ -62,6 +62,7 @@ Together they answer one practical question: *given thousands of documents acros
 ## Credentials
 
 - **Juris Doctor** — St. Thomas University School of Law, Miami, FL (2006)
+- **Florida Bar Examination** — passed
 - **B.A., Biology** (minor, Psychology) — University of Miami (2003)
 - **AWS Certified AI Practitioner**
 - **MIT Learn — AI and Entrepreneurship**, Universal AI Program (2026)
